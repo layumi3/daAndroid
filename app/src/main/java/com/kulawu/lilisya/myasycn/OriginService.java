@@ -8,7 +8,7 @@ import android.util.Log;
 
 import java.lang.ref.WeakReference;
 
-public class OriginService extends Service implements DummyAsyncCallBack, DummyAsyncCallback {
+public class OriginService extends Service implements DummyAsyncCallback {
 
     //public static final String ORIGIN_SERVICE = "OriginService";
 
