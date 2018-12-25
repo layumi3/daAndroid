@@ -5,4 +5,9 @@
     <string name="start_bound_service">Start Bound Service</string>
     <string name="start_intent_service">Start Intent Service</string>
     <string name="start_service">Start Service</string>
+    <string name="this_sms_receiver_app">Ini Aplikasi SMS Receiver</string>
+    <string name="check_sms_permission">Cek SMS Permission</string>
+    <string name="this_play">Ini jadi, main kemari ndak?</string>
+    <string name="close">Tutup</string>
+    <string name="coming_from">Coming From</string>
 </resources>
